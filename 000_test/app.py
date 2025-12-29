@@ -1,0 +1,1 @@
+print("Initialized folder structure")
